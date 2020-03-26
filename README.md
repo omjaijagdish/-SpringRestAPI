@@ -1,2 +1,2 @@
 # SpringRestAPI
-Implementation of Restful web service APIs in Spring
+Implementation of Restful web service APIs with Spring Boot
