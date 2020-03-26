@@ -4,7 +4,7 @@ Implementation of Restful web service APIs with Spring Boot
 
 Topics
 
-POST		/topics				create new topic
+POST		/topics					create new topic
 Request Body format:
 {
         "id": "javascript",
@@ -13,7 +13,7 @@ Request Body format:
 	
 }
 
-GET  		/topics				Gets all topics
+GET  		/topics					Gets all topics
 
 GET			/topics/id			Gets the topic
 
@@ -28,4 +28,4 @@ Request Body format:
 	
 }
 
-DELETE		/topics/id			Deletes the topic
+DELETE		/topics/id				Deletes the topic
